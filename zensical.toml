@@ -268,6 +268,19 @@ features = [
 # ----------------------------------------------------------------------------
 #logo = "assets/logo.png"
 
+[[project.extra.social]]
+link = "/impressum"
+name = "Impressum"
+
+
+[[project.extra.social]]
+link = "/datenschutz"
+name = "Datenschutz"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/spur0-naumburg/spur0-naumburg.github.io"
+
 # ----------------------------------------------------------------------------
 # If you don't have a dedicated project logo, you can use a built-in icon from
 # the icon sets shipped in Zensical. Please note that the setting lives in a

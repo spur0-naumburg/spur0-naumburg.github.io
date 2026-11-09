@@ -1,0 +1,16 @@
+<div class="md-social">
+    {% for social in config.extra.social %}
+    <a
+            href="{{ social.link }}"
+            class="md-social__link"
+    >
+        {% if social.icon %}
+        {% include ".icons/" ~ social.icon ~ ".svg" %}
+        {% else %}
+        <div class="md-social__text">
+        {{ social.name }}
+        </div>
+        {% endif %}
+    </a>
+    {% endfor %}
+</div>
