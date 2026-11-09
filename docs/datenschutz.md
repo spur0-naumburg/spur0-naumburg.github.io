@@ -168,41 +168,57 @@ Es werden keine externen Schriftartendienste wie Google Fonts eingebunden.
 
 Beim Abruf dieser Inhalte werden die unter Punkt 2 beschriebenen technischen Zugriffsdaten verarbeitet.
 
-## 6. Betroffenenrechte
+## 6. Speicherung von Darstellungseinstellungen (Local Storage)
 
-### 6.1 Recht auf Auskunft
+Unsere Website bietet die Möglichkeit, zwischen einer hellen und einer dunklen Darstellung (Light-/Dark-Mode) zu wechseln.
+
+Um die gewählte Darstellung bei einem erneuten Besuch der Website wiederherzustellen, speichern wir die entsprechende Einstellung lokal im Speicher Ihres Browsers (Local Storage).
+
+Dabei wird ausschließlich die gewählte Darstellungseinstellung (hell oder dunkel) gespeichert.
+
+Diese Information wird nicht an unseren Server übertragen und nicht zu Analyse- oder Werbezwecken verwendet.
+
+Die Speicherung erfolgt zur benutzerfreundlichen Bereitstellung der Website und zur Wiederherstellung der von Ihnen gewählten Darstellung.
+
+Eine Einwilligung ist hierfür gemäß § 25 Abs. 2 Nr. 2 TDDDG nicht erforderlich, sofern die Speicherung ausschließlich der Bereitstellung der ausdrücklich gewünschten Darstellungsfunktion dient.
+
+Sie können die gespeicherte Einstellung jederzeit über die Einstellungen Ihres Browsers löschen.
+
+## 7. Betroffenenrechte
+
+### 7.1 Recht auf Auskunft
 
 Sie können nach Art. 15 DSGVO Auskunft über Ihre personenbezogenen Daten verlangen, die wir verarbeiten.
 
-### 6.2 Recht auf Berichtigung
+### 7.2 Recht auf Berichtigung
 
 Sollten die Sie betreffenden Angaben nicht oder nicht mehr zutreffend sein, können Sie nach Art. 16 DSGVO eine Berichtigung verlangen. 
 Sollten Ihre Daten unvollständig sein, können Sie eine Vervollständigung verlangen.
 
-### 6.3 Recht auf Löschung
+### 7.3 Recht auf Löschung
 
 Sie können nach Art. 17 DSGVO die Löschung Ihrer personenbezogenen Daten verlangen, sofern die gesetzlichen Voraussetzungen erfüllt sind.
 
-### 6.4 Recht auf Einschränkung der Verarbeitung
+### 7.4 Recht auf Einschränkung der Verarbeitung
 
 Sie haben nach Art. 18 DSGVO das Recht, unter den gesetzlichen Voraussetzungen eine Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 
-### 6.5 Recht auf Datenübertragbarkeit
+### 7.5 Recht auf Datenübertragbarkeit
 
 Für den Fall, dass die Voraussetzungen des Art. 20 DSGVO vorliegen, steht Ihnen das Recht zu, die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen zu verlangen.
 
-### 6.6 Recht auf Widerspruch
+### 7.6 Recht auf Widerspruch
 
 Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer personenbezogenen Daten Widerspruch einzulegen, sofern diese auf Grundlage von Art. 6 Abs. 1 Buchstabe f DSGVO erfolgt.
 
 Der Verantwortliche verarbeitet die personenbezogenen Daten dann nicht mehr, es sei denn, er kann zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
-### 6.7 Recht auf Widerruf einer Einwilligung
+### 7.7 Recht auf Widerruf einer Einwilligung
 
 Sofern Sie uns eine Einwilligung zur Verarbeitung personenbezogener Daten erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. 
 Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt davon unberührt.
 
-### 6.8 Recht auf Beschwerde
+### 7.8 Recht auf Beschwerde
 
 Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen Datenschutzrecht verstößt, haben Sie nach Art. 77 Abs. 1 DS-GVO das Recht, sich bei einer Datenschutzaufsichtsbehörde eigener Wahl zu beschweren. 
 
@@ -210,7 +226,7 @@ Hierzu gehört auch die für den Verantwortlichen zuständige Datenschutzaufsich
 
 Landesbeauftragte für Datenschutz und Informationsfreiheit, Freistaat Thüringen, www.tlfdi.de/Beschwerde nach Art 77
 
-## 7. Änderung dieser Datenschutzerklärung
+## 8. Änderung dieser Datenschutzerklärung
 
 Wir behalten uns vor, diese Datenschutzerklärung anzupassen, wenn sich Änderungen an unserer Website, den eingesetzten technischen Diensten oder den gesetzlichen Datenschutzanforderungen ergeben.
 
