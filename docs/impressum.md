@@ -7,9 +7,9 @@ hide:
 # Impressum
 
 **Apoldaer Eisenbahnfreunde e. V.**
-Schillerstraße 9
-99510 Apolda
-Deutschland
+-Schillerstraße 9
+-99510 Apolda
+-Deutschland
 
 **Sektion Spur0** 
 Kroppentalstraße 15
