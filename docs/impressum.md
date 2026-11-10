@@ -7,11 +7,13 @@ hide:
 # Impressum
 
 **Apoldaer Eisenbahnfreunde e. V.**
--Schillerstraße 9
--99510 Apolda
--Deutschland
 
-**Sektion Spur0** 
+Schillerstraße 9
+99510 Apolda
+Deutschland
+
+**Sektion Spur0**
+ 
 Kroppentalstraße 15
 06618 Naumburg
 Deutschland
