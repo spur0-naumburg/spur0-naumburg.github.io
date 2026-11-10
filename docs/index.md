@@ -16,6 +16,7 @@ Das Spur0 Team Naumburg ist Teil des MEC Apolda am Standort Naumburg, Kroppental
 -   :fontawesome-solid-at: ulf.haussen(ätt)gmx.de (Ulf Haußen)
 
 -   :fontawesome-solid-phone: [491745297162](tel:000)
+-   :fontawesome-solid-phone: [Ulf Haußen 491745297162](tel:000)
 
 -   :fontawesome-solid-location-dot: [Spur0-Team-Naumburg](https://maps.app.goo.gl/RWxLn7kRMwECZwCy6)  
     Kroppentalstr.15 (Nähe Caravan-Rossol)  
